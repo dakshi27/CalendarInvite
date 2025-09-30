@@ -1,4 +1,4 @@
-#  **CalendarInvitePOC**
+#  **CalendarInvite**
 
 A backend prototype for sending realistic calendar invites via email using **SendGrid** and **ICS attachments**. Built with **ASP.NET Core**, designed for enterprise-grade scheduling, modularity, and clarity.
 
